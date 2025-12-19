@@ -1,3 +1,3 @@
-Starting with my Programming Journey 
+# Starting with my Programming Journey 
 
-Python
+## Python
